@@ -13,7 +13,7 @@ Real-time Analysis: BrainTune's AI-driven system delivers rapid, real-time analy
 
 Intuitive Visualization: The project offers intuitive visual representations of tumor detection and segmentation, facilitating effective communication between medical experts and patients.
 
-*_*Project Goals:**_
+_**Project Goals:**_
 
 Develop an AI-powered platform that seamlessly integrates with medical imaging workflows, enhancing brain tumor detection accuracy and efficiency.
 Create a user-friendly interface that streamlines the interaction between medical professionals and AI-generated results.
